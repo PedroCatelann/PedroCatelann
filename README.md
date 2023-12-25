@@ -1,16 +1,36 @@
-### Hi there 👋
+# 👋 Olá, eu sou Pedro Catelan
 
-<!--
-**PedroCatelann/PedroCatelann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por programação e estou sempre explorando novas tecnologias.
 
-Here are some ideas to get you started:
+## 🌐 Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Instagram]([https://twitter.com/SeuTwitter](https://www.instagram.com/pe_catelann/))
+- [LinkedIn]([https://www.linkedin.com/in/SeuLinkedIn](https://www.linkedin.com/in/pcatelan/))
+
+## 🚀 Estatísticas do GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCatelann&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=PedroCatelann&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎉 Sobre Mim
+
+Olá! Sou Pedro Catelan, um entusiasta da tecnologia. Estou sempre ansioso para aprender algo novo e enfrentar desafios interessantes.
+
+## 🚀 Linguagens de Programação
+
+Aqui estão algumas das linguagens de programação que trabalho:
+
+- **JavaScript**
+- **Python**
+- **Java**
+- **HTML/CSS**
+- **C#**
+- **Java**
+
+
+##
+
+Faça ou não faça. Não há tentativa. 🚀
+
+<img align="center" alt="Gif Animado" src="https://media.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif"/>
