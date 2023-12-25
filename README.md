@@ -31,6 +31,6 @@ Aqui estão algumas das linguagens de programação que trabalho:
 
 ##
 
-Faça ou não faça. Não há tentativa. 🚀
+"Faça ou não faça. Não há tentativa" - Yoda. 🚀
 
 <img align="center" alt="Gif Animado" src="https://media.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif"/>
