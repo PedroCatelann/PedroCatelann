@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por programação e estou semp
 
 ## 🌐 Redes Sociais
 
-- [Instagram]([https://twitter.com/SeuTwitter](https://www.instagram.com/pe_catelann/)
-- [LinkedIn]([https://www.linkedin.com/in/SeuLinkedIn](https://www.linkedin.com/in/pcatelan/)
+- [Instagram](https://www.instagram.com/pe_catelann/)
+- [LinkedIn](https://www.linkedin.com/in/pcatelan/)
 
 ## 🚀 Estatísticas do GitHub
 
